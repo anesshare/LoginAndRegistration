@@ -1,0 +1,15 @@
+# Login project
+login/node_modules/
+login/.next/
+login/out/
+login/.env
+
+# Register project
+register/node_modules/
+register/.next/
+register/out/
+register/.env
+
+# OS/IDE
+.DS_Store
+.vscode/
